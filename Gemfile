@@ -13,8 +13,8 @@ gem 'jbuilder', '~> 2.7'
 gem 'redis', '~> 4.0'
 gem 'hotwire-rails'
 gem 'devise'
-
-
+gem 'omniauth'
+gem 'omniauth-google-oauth2', '~> 0.8.1'
 gem 'image_processing'
 
 gem 'bootsnap', '>= 1.4.4', require: false
